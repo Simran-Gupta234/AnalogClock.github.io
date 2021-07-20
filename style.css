@@ -13,8 +13,8 @@ body{
 
 #clockContainer{
     margin: auto;
-    height: 50vw;
-    width: 50vw;
+    height: 45vw;
+    width: 45vw;
     background: url(clock.png) no-repeat;
     background-size: 100%;
     
